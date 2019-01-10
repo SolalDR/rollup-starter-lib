@@ -1,12 +1,9 @@
 {
-  "name": "rollup-starter-lib",
+  "name": "rollup-start-lib",
   "version": "1.0.0",
-  "main": "dist/how-long-till-lunch.cjs.js",
-  "module": "dist/how-long-till-lunch.esm.js",
-  "browser": "dist/how-long-till-lunch.umd.js",
-  "dependencies": {
-    "ms": "^2.0.0"
-  },
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "browser": "dist/index.umd.js",
   "devDependencies": {
     "rollup": "^1.0.0",
     "rollup-plugin-commonjs": "^9.2.0",
