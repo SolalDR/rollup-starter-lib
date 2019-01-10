@@ -1,3 +1,3 @@
-import All from "./../../dist/how-long-till-lunch.esm";
+import All from "./../../dist/index.esm.js";
 
-console.log(All);
+All.hello();
